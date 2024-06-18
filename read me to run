@@ -1,0 +1,13 @@
+to run the application 
+
+1- download the android studio and down load emulator called "Pixel_3a_API_34_extension_level_7_x86_64"
+
+2- open the android studio and open file called pubspec.yaml and make pub get 
+3- run the application   
+
+--------------------------------------------------------------------------------------------------------
+to run backend code 
+
+1-download the visual sudio code 
+
+2- run the application
